@@ -21,9 +21,11 @@ Backtesting: Historical data from Yahoo Finance is used for backtesting the stra
 ## Dependencies
 
 Python 3.x
+
 Alpaca Trade API
+
 lumibot
-finbert_utils
+
 alpaca_trade_api
 
 Install dependencies using:
@@ -41,11 +43,14 @@ Live Trading (Optional): After satisfactory backtest results, consider deploying
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+
 License
 
 This project is licensed under the MIT License.
 
 ## Acknowledgements
+
+Nick Renotte ([@nicknochnack](https://github.com/nicknochnack)) who made an excellent [video](https://www.youtube.com/watch?v=c9OjEThuJjY) on this on Youtube.
 
 lumibot: Python library for algorithmic trading.
 
